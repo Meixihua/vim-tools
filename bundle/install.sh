@@ -1,0 +1,24 @@
+git clone https://github.com/jiangmiao/auto-pairs.git
+git clone https://github.com/Xuyuanp/nerdtree-git-plugin.git
+git clone https://github.com/octol/vim-cpp-enhanced-highlight.git
+git clone https://github.com/tpope/vim-fugitive.git
+git clone https://github.com/jistr/vim-nerdtree-tabs.git
+git clone https://github.com/tomasr/molokai.git
+git clone https://github.com/majutsushi/tagbar.git
+git clone https://github.com/junegunn/vim-easy-align.git
+git clone https://github.com/fatih/vim-go.git
+git clone https://github.com/Lokaltog/vim-powerline.git
+git clone https://github.com/dyng/ctrlsf.vim.git
+git clone https://github.com/scrooloose/nerdcommenter.git
+git clone https://github.com/kien/ctrlp.vim.git
+git clone https://github.com/SirVer/ultisnips.git
+git clone https://github.com/easymotion/vim-easymotion.git
+git clone https://github.com/nathanaelkane/vim-indent-guides.git
+git clone https://github.com/VundleVim/Vundle.vim.git
+git clone https://github.com/fholgado/minibufexpl.vim.git
+git clone https://github.com/scrooloose/nerdtree.git
+git clone https://github.com/altercation/vim-colors-solarized.git
+git clone https://github.com/derekwyatt/vim-fswitch.git
+git clone https://github.com/terryma/vim-multiple-cursors.git
+git clone https://github.com/Valloric/YouCompleteMe.git
+
